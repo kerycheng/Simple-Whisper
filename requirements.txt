@@ -1,0 +1,6 @@
+torch
+tqdm
+whisper
+pysubs2
+google-generativeai
+openai
