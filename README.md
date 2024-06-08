@@ -4,8 +4,8 @@
 * [更新歷程](#history)
 * [套件安裝](#install)
 * [使用說明](#use)
- * [config.json](#config)
- * [進行翻譯](#translate)
+  * [config.json](#config)
+  * [進行翻譯](#translate)
 
 <h2 id="overview">概述</h2>
 
