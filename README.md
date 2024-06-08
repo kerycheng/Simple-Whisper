@@ -5,7 +5,7 @@
 * [套件安裝](#install)
 * [使用說明](#use)
  * [config.json](#config)
- * [進行翻譯](#tranlate)
+ * [進行翻譯](#translate)
 
 <h2 id="overview">概述</h2>
 
@@ -28,11 +28,13 @@
 ```bash
 pip install -r requirements.txt
 ```
+
 <br>
 
 <h2 id="use">使用說明</h2>
 
 <h4 id="#config">config.json</h4>
+
 如果需要使用到AI翻譯，請在 config.json 填入你需要使用的AI的API Key，也可依你的需求去調整其model和prompt設定。
 
 ```bash
@@ -46,7 +48,8 @@ pip install -r requirements.txt
 
 ```
 
-<h4 id="#tranlate">進行翻譯</h4>
+<h4 id="#translate">進行翻譯</h4>
+
 點擊 run_transcribe.bat 並依照指示依序輸入。(建議可將需用到的影音檔與字幕軸檔一併放在Simple-Whisper目錄底下)
 
 ```bash
